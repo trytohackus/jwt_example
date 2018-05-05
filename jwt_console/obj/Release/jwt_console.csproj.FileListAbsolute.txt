@@ -1,0 +1,20 @@
+X:\Visual Studio Projects\jwt\jwt_console\obj\Release\jwt_console.csproj.CoreCompileInputs.cache
+X:\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt_console.exe.config
+X:\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt_console.exe
+X:\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt_console.pdb
+X:\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt.dll
+X:\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt.pdb
+X:\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt.xml
+X:\Visual Studio Projects\jwt\jwt_console\obj\Release\jwt_console.csprojResolveAssemblyReference.cache
+X:\Visual Studio Projects\jwt\jwt_console\obj\Release\jwt_console.exe
+X:\Visual Studio Projects\jwt\jwt_console\obj\Release\jwt_console.pdb
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt_console.exe.config
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt_console.exe
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt_console.pdb
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt_api.dll
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt_api.pdb
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt_console\bin\Release\jwt_api.dll.config
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt_console\obj\Release\jwt_console.csprojResolveAssemblyReference.cache
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt_console\obj\Release\jwt_console.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt_console\obj\Release\jwt_console.exe
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt_console\obj\Release\jwt_console.pdb

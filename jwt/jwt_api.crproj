@@ -1,0 +1,6 @@
+<project outputDir="D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt\Confused" baseDir="D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" preset="aggressive" inherit="false">
+    <protection id="rename" />
+  </rule>
+  <module path="bin\Debug\jwt_api.dll" />
+</project>

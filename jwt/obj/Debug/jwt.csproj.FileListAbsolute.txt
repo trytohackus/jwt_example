@@ -1,0 +1,17 @@
+X:\Visual Studio Projects\jwt\jwt\bin\Debug\jwt.dll
+X:\Visual Studio Projects\jwt\jwt\bin\Debug\jwt.pdb
+X:\Visual Studio Projects\jwt\jwt\bin\Debug\Newtonsoft.Json.dll
+X:\Visual Studio Projects\jwt\jwt\bin\Debug\JWT.xml
+X:\Visual Studio Projects\jwt\jwt\bin\Debug\Newtonsoft.Json.xml
+X:\Visual Studio Projects\jwt\jwt\obj\Debug\jwt.csproj.CoreCompileInputs.cache
+X:\Visual Studio Projects\jwt\jwt\obj\Debug\jwt.dll
+X:\Visual Studio Projects\jwt\jwt\obj\Debug\jwt.pdb
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt\bin\Debug\jwt.dll
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt\bin\Debug\jwt.pdb
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt\bin\Debug\Newtonsoft.Json.dll
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt\bin\Debug\JWT.xml
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt\bin\Debug\Newtonsoft.Json.xml
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt\obj\Debug\jwt.csprojResolveAssemblyReference.cache
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt\obj\Debug\jwt.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt\obj\Debug\jwt.dll
+D:\VISUAL STUDIO\Visual Studio Projects\jwt\jwt\obj\Debug\jwt.pdb
