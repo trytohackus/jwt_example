@@ -1,0 +1,8 @@
+X:\Visual Studio Projects\jwt\jwt\bin\Release\jwt.dll
+X:\Visual Studio Projects\jwt\jwt\bin\Release\jwt.pdb
+X:\Visual Studio Projects\jwt\jwt\bin\Release\Newtonsoft.Json.dll
+X:\Visual Studio Projects\jwt\jwt\bin\Release\JWT.xml
+X:\Visual Studio Projects\jwt\jwt\bin\Release\Newtonsoft.Json.xml
+X:\Visual Studio Projects\jwt\jwt\obj\Release\jwt.csproj.CoreCompileInputs.cache
+X:\Visual Studio Projects\jwt\jwt\obj\Release\jwt.dll
+X:\Visual Studio Projects\jwt\jwt\obj\Release\jwt.pdb
