@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*.exe
+!*.dll
+!*.pdb # Only for testing commits
+!*/
