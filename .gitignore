@@ -1,5 +1,6 @@
-/.vs/git-hacker.sh
-
-/tmp.TxOaBwM4zD/
-
-/tmp.TrauTub4Zz/
+*
+*/
+!.gitignore
+!*.exe
+!*.dll
+!*.pdb # Only for testing commits
